@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Futbol Counter</string>
+    <string name="texto_reset_button">reset</string>
+    <string name="nombre_equipo_a">TEAM A</string>
+    <string name="nombre_equipo_b">TEAM B</string>
+    <string name="texto_boton_goal">+1 Goal</string>
+    <string name="texto_mas_1">+1</string>
+    <string name="texto_estadistica_faltas">FOULS</string>
+    <string name="texto_estadistica_corners">CORNERS</string>
+    <string name="texto_estadistica_tarjeta_amarilla">YELLOW CARDS</string>
+    <string name="texto_estadistica_tarjeta_roja">RED CARDS</string>
+    <string name="texto_marcador_inicial">0</string>
+    <string name="descripcion_fondo">Imagen de fondo para el marcador</string>
+</resources>
